@@ -26,6 +26,6 @@ To pay out an unbounty create a PR with how much you want paid out and to whom. 
 
 ## List of current unbounties and payments
 
-| Topic  | User | PR of payment
----------------------
-| Unbounties | eb4890 | PR of payment|
+| Topic  | User | PR of payment |
+|--------|------|------- |
+| Unbounties | eb4890 | PR of payment |
